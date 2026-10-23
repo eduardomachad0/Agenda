@@ -21,7 +21,8 @@
             android:background="?attr/colorPrimary"
             android:minHeight="?attr/actionBarSize"
             android:theme="?attr/actionBarTheme"
-            app:title="Detalhes do Contato" />
+            app:title="Detalhes do Contato"
+            app:titleTextColor="@color/white" />
 
         <ImageView
             android:id="@+id/imageView"
